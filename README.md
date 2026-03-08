@@ -1,4 +1,3 @@
-# EmergencyLogistics_MPARP
 # Benchmark Test Data for the Joint Optimization of Multi-period Allocation and Delivery Routing of Emergency Supplies
 
 
